@@ -1,3 +1,5 @@
+#!/usr/bin/env python2.7
+
 '''
 Alice uses the same one time pad key 11 times. We use crib dragging to
 break the cipher. We guess a word (crib) that appears in the first message, 
